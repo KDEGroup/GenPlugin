@@ -1,5 +1,6 @@
 # GENPLUGIN
 This repository provides a PyTorch reference implementation of the main models and training procedures described in our paper:
+> Kun Yang, Siyao Zheng, Tianyi Li, Xiaodong Li, Hui Li.  **GenPlugin: A Plug-and-Play Framework for Long-Tail Generative Recommendation with Exposure Bias Mitigation**.
 
 
 Within the code directory: the folders ending with "-RAR" use to the Retrieval-Augmented Fine-tuning section, while the rest are for the model pre-training.
